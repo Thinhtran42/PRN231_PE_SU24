@@ -1,0 +1,14 @@
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/bin/Debug/net6.0/PRN231.Repo.deps.json
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/bin/Debug/net6.0/PRN231.Repo.runtimeconfig.json
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/bin/Debug/net6.0/PRN231.Repo.dll
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/bin/Debug/net6.0/PRN231.Repo.pdb
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.csproj.AssemblyReference.cache
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.AssemblyInfoInputs.cache
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.AssemblyInfo.cs
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.dll
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/refint/PRN231.Repo.dll
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.pdb
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/PRN231.Repo.genruntimeconfig.cache
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.Repo/obj/Debug/net6.0/ref/PRN231.Repo.dll
