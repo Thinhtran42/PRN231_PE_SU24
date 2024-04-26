@@ -70,3 +70,4 @@
 /Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.API/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.API/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/thinhtran/Documents/ChuyenNganh8/PRN231/PRN231PE_SU23_PracticalExam_SE160233/PRN231PE_SU23_PracticalExam_SE160233/PRN231.API/obj/Debug/net6.0/PRN231.API.sourcelink.json
